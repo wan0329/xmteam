@@ -1,0 +1,151 @@
+.whole {
+    width: 1262px;
+    height: 686px;
+    /* border: 1px solid red; */
+    margin: 0px auto;
+    background-color: #F1F1F1;
+}
+
+.head {
+    width: 1108px;
+    height: 78px;
+    margin: 0px 154px;
+    /* border: 1px solid red; */
+    margin: 0px auto;
+}
+
+.h1 {
+    margin-top: 21px;
+}
+
+.head .h2 {
+    float: left;
+}
+
+.head .h1 {
+    float: left;
+}
+
+.h2 {
+    margin-top: 21px;
+    margin-left: 48px;
+}
+
+.head .h3 {
+    float: right;
+}
+
+.h3 {
+    margin-top: 34px;
+
+}
+
+a {
+    color: blue;
+
+}
+
+.b1 {
+    width: 1108px;
+    height: 46px;
+    /* border: 1px solid red; */
+    background: url("./tit_bg2.jpg")repeat;
+
+}
+
+.body {
+    width: 1108px;
+    height: 595px;
+    /* border: 1px solid red; */
+    margin: 0px 154px;
+    margin: 0px auto;
+    /* background-color: white; */
+}
+
+.b1 .b1-1 {
+    float: left;
+}
+
+.b1 .b1-2 {
+    float: left;
+}
+
+.b1-2 {
+    margin-top: 14px;
+    margin-left: 19px;
+    color: white;
+}
+
+.b2 {
+    width: 1108px;
+    height: 495px;
+    /* border: 1px solid red; */
+    background-color: white;
+    z-index: 10;
+
+}
+
+.b2-div1 {
+    margin-top: 48px;
+    margin-left: 263px;
+    margin-right: 248px;
+    /* border: 1px solid red; */
+
+}
+
+.b2-div2 {
+    margin-top: 14px;
+    margin-left: 263px;
+    margin-right: 248px;
+    /* border: 1px solid red; */
+
+}
+
+.b2-div3 {
+    margin-top: 14px;
+    margin-left: 263px;
+    margin-right: 248px;
+    /* border: 1px solid red; */
+
+}
+
+.b2-div4 {
+    margin-top: 14px;
+    margin-left: 263px;
+    margin-right: 248px;
+    /* border: 1px solid red; */
+
+}
+
+.b2-div5 {
+    margin-top: 14px;
+    margin-left: 263px;
+    margin-right: 248px;
+    /* border: 1px solid red; */
+
+}
+
+.b2-div6 {
+    margin-top: 45px;
+    margin-left: 263px;
+    margin-right: 248px;
+    /* border: 1px solid red; */
+
+}
+
+.b2-div {
+    margin: 0px auto;
+    margin-bottom: 50px;
+}
+
+.foot {
+    width: 1262px;
+    height: 70px;
+    /* border: 1px solid red; */
+}
+
+.b2-12 {
+    margin-top: 68px;
+    margin-left: 330px;
+    margin-right: 200px;
+}
