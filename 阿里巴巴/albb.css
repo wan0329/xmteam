@@ -1,0 +1,91 @@
+.whole {
+    width: 1429px;
+    height: 158px;
+
+    margin: 0px auto;
+}
+
+.head {
+    width: 1429px;
+    height: 116px;
+
+
+}
+
+.h1 {
+    margin-left: 224px;
+
+}
+
+.bottom {
+    width: 1429px;
+    height: 45px;
+
+    background: url("./body_bg.jpg") repeat-x;
+}
+
+.b1 {
+    width: 1000px;
+    height: 45px;
+
+}
+
+.b2 {
+    width: 180px;
+    height: 45px;
+
+
+}
+
+.b {
+    margin-left: 224px;
+
+
+    height: 45px;
+}
+
+.b>.b1 {
+    float: left;
+}
+
+.b>.b2 {
+    float: right;
+}
+
+.b1 li {
+    display: inline-block;
+}
+
+.b1 li>a {
+    display: block;
+    height: 35px;
+    line-height: 35px;
+    padding: 0px 8px;
+    color: white;
+    font-size: 14px;
+
+
+}
+
+.b2 li>a {
+    display: block;
+    height: 35px;
+    line-height: 35px;
+    padding: 0px 8px;
+    color: white;
+    font-size: 8px;
+
+
+}
+
+.b2 li {
+    display: inline-block;
+}
+
+.b1-1>li>a:hover {
+    background: red;
+}
+
+.b2-1>li>a:hover {
+    background: red;
+}
