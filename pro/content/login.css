@@ -36,7 +36,6 @@ body {
 
 }
 
-.hd2-ul {}
 
 .hd2-ul>li {
     float: left;
@@ -135,7 +134,7 @@ body {
 }
 
 .mdvrd1-dv1>span {
-    float: left;
+
     height: 28px;
     line-height: 28px;
     display: inline-block;
